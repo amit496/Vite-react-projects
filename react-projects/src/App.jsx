@@ -2,7 +2,7 @@
 // import viteLogo from '/vite.svg'
 // import './App.css'
 import Counter from './counter'
-
+import RandomColor from './bgcolor'
 
 function App() {
   return (
@@ -29,7 +29,7 @@ function App() {
     //   </p>
     // </>
 
-    <Counter />
+    <RandomColor />
   )
 }
 
